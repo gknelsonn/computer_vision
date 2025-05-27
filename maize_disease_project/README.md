@@ -18,7 +18,7 @@ A TensorFlow/Keras-based model that classifies maize leaf diseases (e.g., Common
 ## 🛠️ Technologies
 - **Backend**: FastAPI, TensorFlow 2.x  
 - **Frontend** (Optional): Streamlit/Flask  
-- **Model**: EfficientNetV2 (pretrained + fine-tuned)  
+- **Model**:CNN 
 - **Data**: [PlantVillage Dataset](https://plantvillage.psu.edu/)  
 
 ## 🚀 Quick Start
@@ -31,3 +31,5 @@ A TensorFlow/Keras-based model that classifies maize leaf diseases (e.g., Common
 git clone https://github.com/yourusername/maize-disease-detection.git
 cd maize-disease-detection
 pip install -r requirements.txt
+
+
